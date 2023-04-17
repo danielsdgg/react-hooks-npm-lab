@@ -1,0 +1,24 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "tell the time",
+  "main": "1",
+  "scripts": {
+    "test": "echo 'hello world!' ",
+    "start": "serve"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "time-lab"
+  },
+  "keywords": [
+    "t"
+  ],
+  "author": "daniel",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.2.0"
+  }
+}
